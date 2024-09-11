@@ -1,0 +1,22 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "THIS IS A CYPRESS TEST PROJECT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/malikfahadsaeed/cypress-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malikfahadsaeed/cypress-test/issues"
+  },
+  "homepage": "https://github.com/malikfahadsaeed/cypress-test#readme",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
