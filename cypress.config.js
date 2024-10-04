@@ -7,7 +7,7 @@ module.exports = defineConfig({
     },
     baseUrl: "https://ecommerce-playground.lambdatest.io"
   },
-  defaultCommandTimeout: 20000,
+  defaultCommandTimeout: 5000,
   viewportWidth: 1440,
   viewportHeight: 900
 });
